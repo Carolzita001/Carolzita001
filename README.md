@@ -5,7 +5,7 @@
 
 - Estudando JavaScript 😄.
 - [Este é meu "caderno" de estudos e práticas com o JavaScript ](https://github.com/Carolzita001/Caderno-de-JavaScript). Um tipo de apotila que eu estou criando para fixação de conteúdo.
-- [Meu primeiro projeto autoral](https://github.com/Carolzita001/BEE) com a implementação fontend<br>
+- [Meu primeiro projeto autoral](https://github.com/Carolzita001/BEE) com a implementação frontend<br>
 
 ### você pode me encontrar:
 
