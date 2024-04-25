@@ -1,4 +1,4 @@
-### Oi, eu sou a Carol! <img><iframe src="https://giphy.com/embed/Dg4TxjYikCpiGd7tYs" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raccoon-pedro-Dg4TxjYikCpiGd7tYs">via GIPHY</a></p></img> 
+### Oi, eu sou a Carol!
 
 :arrow_right_hook: Cursando ciência da computação pela UFJ<br>
 :twisted_rightwards_arrows: Em 2021 iniciei meus estudos em programação;<br>
